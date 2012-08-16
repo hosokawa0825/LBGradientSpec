@@ -128,9 +128,3 @@ Pod::Spec.new do |s|
   #
   # s.dependency 'JSONKit', '~> 1.4'
 end
-
-
-pod 'LBGradient', :git => 'http://github.com/larcus94/LBGradient.git'
-pod 'iConsole'
-pod 'GHUnit'
-pod 'LKBadgeView'
